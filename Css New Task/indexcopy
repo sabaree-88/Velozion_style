@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <link rel="stylesheet" href="style/style.class">
+</head>
+
+<body>
+    <div class="full-cont">
+
+
+        <!-- our works -->
+        <!-- <div class="ourwork">
+            <span>
+                <h1>
+                    OUR WORK
+                </h1>
+            </span>
+            <span class="works">
+                <img src="ourwork_image/iwant.png" alt="iWant">
+
+                <h3>iWant</h3>
+
+                <p>
+                    iWANT.com is an idea to create a global 'Demand Based Marketplace'
+                    where consumers post what they want and sellers contact them directly with their best offers
+                    eliminating the need for advertisement.
+                </p>
+
+            </span>
+            <span class="works">
+                <img src="ourwork_image/shilfer.png" alt="iWant">
+                <span>
+                    <h3>Shilfer</h3>
+                    <p>
+                        Shilfer is a market place for creative entrepreneurs, individuals and any NGOs to showcase their
+                        creative and unique products to connect with the world and sell. </p>
+                </span>
+            </span>
+            <span class="works">
+                <img src="ourwork_image/workingbee.png" alt="workingbee">
+                <span>
+                    <h3>WorkingBEE</h3>
+                    <p>
+                        Working BEE is the all in one multi service portal, Such as E-Commerce, Freelance and Finance
+                        portals.</p>
+                </span>
+            </span>
+            <span class="works">
+                <img src="ourwork_image/esperto.png" alt="esperto">
+                <span>
+                    <h3>Esperto</h3>
+                    <p>
+                        To us at Harvest Coffee Forenity, coffee is more than a business- it's a passion. We love what
+                        we do and want to share that energy and enthusiasm with you, the customer.</p>
+                </span>
+            </span>
+            <span class="works">
+                <img src="ourwork_image/myoitc.png" alt="myoitc">
+                <span>
+                    <h3>Myoitic</h3>
+                    <p>
+                        Myoitc is a workforce and care management technology platform designed to meet the unique
+                        operational needs of home and community based care services and organizations.</p>
+                </span>
+            </span>
+            <span class="works">
+                <img src="ourwork_image/quivexchange.png" alt="quivexchange">
+                <span>
+                    <h3>Quiv Exchange</h3>
+                    <p>
+                        Quiv Exchange gathers you extreme sports enthusiasts that participate in surfing, skateboarding,
+                        snowboarding, and skiing in an online community to buy, sell, and trade.</p>
+                </span>
+            </span>
+            <span class="works">
+                <img src="ourwork_image/clickmyauto.png" alt="clickmyauto">
+                <span>
+                    <h3>Click My Auto</h3>
+                    <p>
+                        Click My Auto is a Global Automobile Portal for all customers. we are providing all-round
+                        automobile services to our customer’s on a single platform</p>
+                </span>
+            </span>
+            <span class="works">
+                <img src="ourwork_image/puradom.png" alt="puradom">
+                <span>
+                    <h3>Puradom</h3>
+                    <p>
+                        Puradom is a wholesaler and distributor, authorized distributor and / or representative of the
+                        world's leading manufacturers of equipment for the water treatment industry.</p>
+                </span>
+            </span>
+            <span class="works">
+                <img src="ourwork_image/findsolution.png" alt="findsolution">
+                <span>
+                    <h3>Find Solutions</h3>
+                    <p>
+                        Find Solutions is a question-and-answer website where questions are asked, answered, edited, and
+                        organized by its community of users in the form of opinions. </p>
+                </span>
+            </span>
+            <span class="works">
+                <img src="ourwork_image/magentic.png" alt="magentic">
+                <span>
+                    <h3>Magentic Alliance</h3>
+                    <p>
+                        Magnetic Alliance are the business specialists. We interconnect all areas of business together
+                        to help you achieve outstanding growth.</p>
+                </span>
+            </span>
+            <span class="works">
+                <img src="ourwork_image/funny.png" alt="funny girls">
+                <span>
+                    <h3>Funny Girls</h3>
+                    <p>
+                        Funnygirls online is a blackpool restartuant, allows the customer to book Tickets and Food
+                        online for the Events.</p>
+                </span>
+            </span>
+            <span class="works">
+                <img src="ourwork_image/xpressdeal.png" alt="xpressdeal">
+                <span>
+                    <h3>XpressDeal</h3>
+                    <p>
+                        XpressDeal is a classified portal for Buyers and Sellers can post ads to promote the services
+                        that they offer.</p>
+                </span>
+            </span>
+        </div> -->
+
+        <!-- Quotes -->
+        <!-- <div class="quotes">
+            <h1>
+                <q>Let's do great things together!</q>
+            </h1>
+        </div>
+
+        <div class="contactus">
+            <section>
+                <span class="cnt">
+                    <p><i class="fa-solid fa-phone-volume"></i>Give us a call</p>
+                    <a href="tel:+1 (587) 287-2471">+1 (587) 287-2471</a>
+                    <a href="tel:+91 080-43029115">+91 080-43029115</a>
+                </span>
+                <span class="cnt">
+                    <p><i class="fa-solid fa-envelope-open-text"></i>Write to us</p>
+                    <a href="mailto:info@velozion.com">info@velosion.com</a>
+                </span>
+                <span class="cnt">
+                    <p><i class="fa-solid fa-phone"></i><a href="https://www.velozion.com/contactus">Have us call you
+                            <br>
+                            <small>leave your details</small></a></p>
+                </span>
+            </section>
+        </div>
+        <div class="client">
+            <img src="img/testimonials.PNG" alt="testimonials" width="45%">
+            <img src="img/client.PNG" alt="Our clients" width="45%" height="480px">
+        </div> -->
+        <!-- footer -->
+        <!-- <footer>
+            <div class="flex">
+                <div >
+                    <address class="address">
+                        <h4>HEAD OFFIC</h4>
+                        <p><strong>Velozion Technologies Pvt Ltd</strong></p>
+                        <p>
+                            <i class="fa-solid fa-location-dot"></i>#5/1, 2nd Floor, Saraswathamma Complex,<br>
+                            <i class="fa-solid fa-location-arrow"></i>TC Palya Main Road, Ramamurthy Nagar,<br>
+                            <i class="fa-solid fa-location-arrow"></i>Bangalore - 560016, India <br>
+                            <i class="fa-solid fa-phone"></i>+1 (587) 287-2471 <br>
+                            <i class="fa-solid fa-phone"></i>+91 080-43029115 <br>
+                            <i class="fa-regular fa-envelope"></i>info@velozion.com
+                        </p>
+                    </address>
+                </div>
+                <div class="contus">
+                    <h4>CONNECT US</h4>
+                    <a href="https://www.linkedin.com/company/velozion" target="_blank"><i
+                            class="fa-brands fa-linkedin"></i></a>
+                    <a href="https://www.facebook.com/Velozion.Technologies" target="_blank"><i
+                            class="fa-brands fa-facebook"></i></a>
+                </div>
+                <div class="our-services">
+                    <h4>OUR SERVICES</h4>
+                    <ul>
+                        <li><a href="https://www.velozion.com/ui-ux-design-company" target="_blank">UI/UX Design</a>
+                        </li>
+                        <li><a href="https://www.velozion.com/web-application-development-company" target="_blank">Web
+                                Application Design</a></li>
+                        <li><a href="https://www.velozion.com/php-website-development-company" target="_blank">PHP Web
+                                Development</a></li>
+                        <li><a href="https://www.velozion.com/API-integration-company" target="_blank">API
+                                Integration</a>
+                        </li>
+                        <li><a href="https://www.velozion.com/angularjs-website-development-company"
+                                target="_blank">AngularJS Development</a></li>
+                        <li><a href="https://www.velozion.com/nodejs-website-development-company" target="_blank">Node
+                                Js
+                                Development</a></li>
+                        <li><a href="https://www.velozion.com/iphone-app-development-company" target="_blank">iOS
+                                Development</a></li>
+                        <li><a href="https://www.velozion.com/android-app-development-company" target="_blank">Android
+                                Development</a></li>
+                        <li><a href="https://www.velozion.com/React-Native-Development" target="_blank">React Native
+                                Development</a></li>
+                        <li><a href="https://www.velozion.com/ERP-software-development-company" target="_blank">ERP
+                                Application Development</a></li>
+                        <li><a href="https://www.velozion.com/CRM-software-development-company" target="_blank">CRM
+                                Application</a></li>
+                        <li><a href="https://www.velozion.com/payment-gateway-integration-company"
+                                target="_blank">Payment
+                                Gateway Integration</a></li>
+
+                    </ul>
+                </div>
+                <div class="ourArea">
+                    <h4>OUR AREAS</h4>
+                    <ul>
+                        <li>Construction Management</li>
+                        <li>Sports</li>
+                        <li>News & Events</li>
+                        <li>Social Networking</li>
+                        <li>Banking & Finance</li>
+                        <li>Food & Restaurant</li>
+                        <li>Insurance & Telecom</li>
+                        <li>Retail & E-commerce</li>
+                        <li>Travel & Hospitality</li>
+                        <li>Healthcare & Fitness</li>
+                        <li>Media & Entertainment</li>
+                        <li>Education & Learning</li>
+                        <li>Transport & Logistics</li>
+                        <li>Geolocation & Navigation</li>
+                        <li>Real Estate & Construction</li>
+                        <li>Kids & Learning</li>
+                    </ul>
+                </div>
+            </div>
+            <p>&copy; Velozion Technologies Pvt. Ltd. | All Rights Reserved | <a href="https://www.velozion.com/privacy"
+                    target="_blank">Our Privacy Policy</a></p>
+        </footer> -->
+    </div>
+
+</body>
