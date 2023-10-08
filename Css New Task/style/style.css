@@ -518,3 +518,92 @@ section.portfolio{
     color:#fff;
     text-align: center;
 }
+
+.awards{
+    width:100%;
+    height: 650px;
+    display: flex;
+
+}
+.awards .testimonials{
+    width: 50%;
+    height: 650px;
+
+}
+.awards .clients{
+    width: 50%;
+    height: 650px;
+}
+.clients .client-tlt{
+    padding: 24px 0px;
+}
+.clients .client-tlt h2{
+    text-align: center;
+}
+.client-tlt h2 span{
+    border-bottom: 2px solid #035EB1;
+    color: #035EB1;
+}
+.testimonials .test-tlt{
+    /* margin: 10px 0px 8px; */
+    padding: 24px 0px;
+}
+.test-tlt h2{
+    text-align: center;
+    color: #fff;
+}
+.test-tlt h2 span{
+    border-bottom: 2px solid #fff;
+}
+.conter{
+    padding: 0px 15px;
+}
+.andrew-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.andrew-img img{
+    border: 5px solid white;
+    border-radius: 50%;
+}
+
+.testimonials p{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.2;
+    color: #fff;
+    margin: 0px 0px 10px;
+    padding: 20px 20px 10px;
+}
+.buttons p{
+    margin: 80px 0px 0px;
+    font-weight: 600;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+}
+.buttons p span{
+    padding: 8px 12px;
+    background-color: #737373;
+    border-radius: 50%;
+}
+.buttons p span a{
+    text-decoration: none;
+    color: white;
+}
+.clients .client-cont{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
+div.clnt-icon{
+    width: 33%;
+    height: 256px;
+}
+.clnt-icon img{
+    width: auto;
+    height: auto;
+}
