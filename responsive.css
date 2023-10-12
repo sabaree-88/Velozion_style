@@ -1,0 +1,217 @@
+
+
+@media screen and (max-width:480px) and (min-width:320px) {
+    html,body{
+        padding: 0;
+        margin: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+    header{
+        display: none;
+    }
+    .nav-links{
+        display: none;
+    }
+    .nav-bar{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 8px 16px;
+        position: static;
+    }
+    .nav-bar .logo{
+        margin: 0;
+    }
+    .nav-bar .logo img{
+        width: 140px;
+        height: 52px;
+        margin: 0px 0px;
+    }
+    .menu{
+        display: block;
+    }
+    .banner{
+        width: 100%;
+        height: 170px;
+    }
+    .text{
+        width: 40%;
+        padding: 10px;
+    }
+    .image{
+        width: 50%;
+        padding-left: 40px;
+    }
+    .text h1{
+        width: 200px !important;
+        font-size: 10px !important;
+        line-height: normal !important;
+        padding: 4px;
+    }
+    .text p{
+        width: 200px;
+        font-size: 6px;
+        padding: 4px 14px;
+    }
+    .image img{
+        clear: both;
+        display: block;
+        width: 143px;
+        height: 115px;
+    }
+    .aboutus{
+        padding: 0;
+    }
+    div.abt{
+        margin: 0 !important;
+    }
+    .about{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .abt-img{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+    }
+    .abt-img img{
+        position: static;
+    }
+    .abt-text{
+        width: 100%;
+        padding: 10px 15px;
+    }
+    .our-service{
+        flex-direction: column;
+    }
+    .ser{
+        width: 100%;
+        height: auto;
+    }
+    .ser img{
+        margin-left: 20px;
+    }
+    .ser p{
+        font-size: 14px;
+    }
+    section.portfolio{
+        padding: 0;
+    }
+    .portfolio .title{
+        margin: 0;
+    }
+
+    .our-works{
+        position: relative;
+        width: 100%;
+        height: 4000px;
+    }
+    .works{
+        width: 100%;
+        height: auto;
+        padding: 10px;
+        margin: 6px;
+        box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.3);
+    }
+    .works .work-img img{
+        width: 100%;
+        height: auto;
+        vertical-align: middle;
+    }
+    .works .hover-text{
+        width: 100%;
+        height: auto;
+        position: relative;
+        background-color: #fff;
+    }
+    .hover-text .one{
+        position: absolute;
+        top:-30px;
+        left: 0px;
+    }
+    .hover-text .one img{
+        width: 60px;
+        height: 60px;
+        background: #FFFFFF;
+        border: 1px solid #296cf5;
+        border-radius: 50%;
+    }
+    .our-works .work1{
+        position: absolute;
+        top: 0;
+        left: 0;
+        
+    }
+    .our-works .work2{
+        position: absolute;
+        top: 40%;
+        left: 0;
+    }
+    .our-works .work3{
+        position: absolute;
+        top: 80%;
+        left: 0;
+        
+    }
+    .our-works .work4{
+        position: absolute;
+        top: 120%;
+        left: 0;
+    }
+    .our-works .work5{
+        position: absolute;
+        top: 160%;
+        left: 0;
+        
+    }
+    .our-works .work6{
+        position: absolute;
+        top: 200%;
+        left: 0;
+    }
+    .our-works .work7{
+        position: absolute;
+        top: 240%;
+        left: 0;
+        
+    }
+    .our-works .work8{
+        position: absolute;
+        top: 280%;
+        left: 0;
+    }
+    .our-works .work9{
+        position: absolute;
+        top: 320%;
+        left: 0;
+        /* height: 462px; */
+        
+    }
+    .our-works .work10{
+        position: absolute;
+        top: 350%;
+        left: 0;
+    }
+    .our-works .work11{
+        position: absolute;
+        top: 380%;
+        left: 50%;
+        /* height: 499px; */
+        
+    }
+    .our-works .work12{
+        position: absolute;
+        top: 420%;
+        left: 0;
+        /* height: 659px; */
+        
+    }
+
+}
